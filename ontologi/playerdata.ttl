@@ -1,0 +1,1203 @@
+@prefix p: <http://football.com> .
+@prefix d: <http://football.com/ns/data#> .
+
+p:P01	d:namaPlayer	"Boy Waterman" ;
+		d:klub			"Eindhovense Voetbalvereniging Philips Sport Vereniging" ;
+		d:Posisi		"Goalkeeper" ;
+		d:marketValue	"50000" ;
+		d:tinggi		"188" ;
+		d:negara		"Netherlands" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/4391-1583743570.jpg?lm=1" .
+
+p:P02	d:namaPlayer	"Gianluigi Buffon" ;
+		d:klub			"Juventus Football Club" ;
+		d:Posisi		"Goalkeeper" ;
+		d:marketValue	"1000000" ;
+		d:tinggi		"192" ;
+		d:negara		"Italy" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/5023-1448530267.jpg?lm=1" .
+
+p:P03	d:namaPlayer	"Jonas Hofmann" ;
+		d:klub			"Bayer 04 Leverkusen Fußball" ;
+		d:Posisi		"Midfield" ;
+		d:marketValue	"10000000" ;
+		d:tinggi		"176" ;
+		d:negara		"Germany" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/7161-1689710421.jpg?lm=1" .
+
+p:P04	d:namaPlayer	"Aleksandr Ryazantsev" ;
+		d:klub			"Torpedo Moscow" ;
+		d:Posisi		"Midfield" ;
+		d:marketValue	"50000" ;
+		d:tinggi		"179" ;
+		d:negara		"Russia" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/7252-1626695758.png?lm=1" .
+
+p:P05	d:namaPlayer	"Philipp Pentke" ;
+		d:klub			"1. Fußball-Club Köln" ;
+		d:Posisi		"Goalkeeper" ;
+		d:marketValue	"300000" ;
+		d:tinggi		"191" ;
+		d:negara		"Germany" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/8246-1657200161.jpg?lm=1" .
+
+p:P06	d:namaPlayer	"Cesc Fàbregas" ;
+		d:klub			"Association sportive de Monaco Football Club" ;
+		d:Posisi		"Midfield" ;
+		d:marketValue	"1000000" ;
+		d:tinggi		"179" ;
+		d:negara		"Spain" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/8806-1614090062.jpg?lm=1" .
+
+p:P07	d:namaPlayer	"Rui Fonte" ;
+		d:klub			"Futebol Clube de Famalicão" ;
+		d:Posisi		"Attack" ;
+		d:marketValue	"300000" ;
+		d:tinggi		"180" ;
+		d:negara		"Portugal" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/9335-1591777476.png?lm=1" .
+
+p:P08	d:namaPlayer	"David Marshall" ;
+		d:klub			"Hibernian Football Club" ;
+		d:Posisi		"Goalkeeper" ;
+		d:marketValue	"50000" ;
+		d:tinggi		"187" ;
+		d:negara		"Scotland" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/9500-1697535030.jpg?lm=1" .
+
+p:P09	d:namaPlayer	"Umut Bulut" ;
+		d:klub			"Yeni Malatyaspor" ;
+		d:Posisi		"Attack" ;
+		d:marketValue	"25000" ;
+		d:tinggi		"184" ;
+		d:negara		"Turkey" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/10143-1663353142.png?lm=1" .
+
+p:P10	d:namaPlayer	"Lionel Carole" ;
+		d:klub			"Kayserispor Kulübü" ;
+		d:Posisi		"Defender" ;
+		d:marketValue	"550000" ;
+		d:tinggi		"182" ;
+		d:negara		"France" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/11530-1694080287.png?lm=1" .
+
+p:P11	d:namaPlayer	"Daley Blind" ;
+		d:klub			"Girona Fútbol Club S. A. D." ;
+		d:Posisi		"Defender" ;
+		d:marketValue	"3000000" ;
+		d:tinggi		"180" ;
+		d:negara		"Netherlands" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/12282-1660761781.jpg?lm=1" .
+
+p:P12	d:namaPlayer	"Niki Mäenpää" ;
+		d:klub			"Venezia FC" ;
+		d:Posisi		"Goalkeeper" ;
+		d:marketValue	"100000" ;
+		d:tinggi		"187" ;
+		d:negara		"Finland" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/12359-1630656734.jpg?lm=1" .
+
+p:P13	d:namaPlayer	"Craig Gordon" ;
+		d:klub			"Heart of Midlothian Football Club" ;
+		d:Posisi		"Goalkeeper" ;
+		d:marketValue	"150000" ;
+		d:tinggi		"193" ;
+		d:negara		"Scotland" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/12589-1716378382.jpg?lm=1" .
+
+p:P14	d:namaPlayer	"Alessio Cragno" ;
+		d:klub			"Unione Sportiva Sassuolo Calcio" ;
+		d:Posisi		"Goalkeeper" ;
+		d:marketValue	"2500000" ;
+		d:tinggi		"184" ;
+		d:negara		"Italy" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/12907-1663659430.jpg?lm=1" .
+
+p:P15	d:namaPlayer	"Phil Jagielka" ;
+		d:klub			"Sheffield United Football Club" ;
+		d:Posisi		"Defender" ;
+		d:marketValue	"200000" ;
+		d:tinggi		"180" ;
+		d:negara		"England" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/13520-1475843125.jpg?lm=1" .
+
+p:P16	d:namaPlayer	"Ashley Young" ;
+		d:klub			"Everton Football Club" ;
+		d:Posisi		"Defender" ;
+		d:marketValue	"500000" ;
+		d:tinggi		"175" ;
+		d:negara		"England" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/14086-1700736434.jpg?lm=1" .
+
+p:P17	d:namaPlayer	"Scott Carson" ;
+		d:klub			"Manchester City Football Club" ;
+		d:Posisi		"Goalkeeper" ;
+		d:marketValue	"200000" ;
+		d:tinggi		"188" ;
+		d:negara		"England" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/14555-1666733622.jpg?lm=1" .
+
+p:P18	d:namaPlayer	"Marcelo Carné" ;
+		d:klub			"Grupo Desportivo Estoril Praia" ;
+		d:Posisi		"Goalkeeper" ;
+		d:marketValue	"350000" ;
+		d:tinggi		"188" ;
+		d:negara		"Brazil" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/14881-1705756665.jpg?lm=1" .
+
+p:P19	d:namaPlayer	"Lukas Podolski" ;
+		d:klub			"Antalyaspor" ;
+		d:Posisi		"Midfield" ;
+		d:marketValue	"250000" ;
+		d:tinggi		"182" ;
+		d:negara		"Germany" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/15185-1670769304.png?lm=1" .
+
+p:P20	d:namaPlayer	"Raúl Albiol" ;
+		d:klub			"Villarreal Club de Fútbol S.A.D." ;
+		d:Posisi		"Defender" ;
+		d:marketValue	"2000000" ;
+		d:tinggi		"190" ;
+		d:negara		"Spain" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/15452-1664974689.jpg?lm=1" .
+
+p:P21	d:namaPlayer	"Bruno Gama" ;
+		d:klub			"Aris Thessalonikis" ;
+		d:Posisi		"Attack" ;
+		d:marketValue	"200000" ;
+		d:tinggi		"175" ;
+		d:negara		"Portugal" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/s_15568_897_2012_3.jpg?lm=1" .
+
+p:P22	d:namaPlayer	"Jesús Navas" ;
+		d:klub			"Sevilla Fútbol Club S.A.D." ;
+		d:Posisi		"Defender" ;
+		d:marketValue	"3000000" ;
+		d:tinggi		"170" ;
+		d:negara		"Spain" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/15956-1694503739.jpg?lm=1" .
+
+p:P23	d:namaPlayer	"Ryan Babel" ;
+		d:klub			"Galatasaray Spor Kulübü" ;
+		d:Posisi		"Attack" ;
+		d:marketValue	"150000" ;
+		d:tinggi		"185" ;
+		d:negara		"Netherlands" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/16135-1663352942.png?lm=1" .
+
+p:P24	d:namaPlayer	"Oleg Ivanov" ;
+		d:klub			"FC Rubin Kazan" ;
+		d:Posisi		"Midfield" ;
+		d:marketValue	"100000" ;
+		d:tinggi		"192" ;
+		d:negara		"Russia" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/16756-1690298991.png?lm=1" .
+
+p:P25	d:namaPlayer	"Manuel Neuer" ;
+		d:klub			"FC Bayern München" ;
+		d:Posisi		"Goalkeeper" ;
+		d:marketValue	"4000000" ;
+		d:tinggi		"193" ;
+		d:negara		"Germany" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/17259-1702419450.jpg?lm=1" .
+
+p:P26	d:namaPlayer	"Thomas Mangani" ;
+		d:klub			"AC Ajaccio" ;
+		d:Posisi		"Midfield" ;
+		d:marketValue	"300000" ;
+		d:tinggi		"183" ;
+		d:negara		"France" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/18934-1595882993.jpg?lm=1" .
+
+p:P27	d:namaPlayer	"Michael Langer" ;
+		d:klub			"FC Schalke 04" ;
+		d:Posisi		"Goalkeeper" ;
+		d:marketValue	"50000" ;
+		d:tinggi		"195" ;
+		d:negara		"Austria" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/19114-1657108299.jpg?lm=1" .
+
+p:P28	d:namaPlayer	"Oscar Wendt" ;
+		d:klub			"Borussia Verein für Leibesübungen 1900 Mönchengladbach" ;
+		d:Posisi		"Defender" ;
+		d:marketValue	"400000" ;
+		d:tinggi		"181" ;
+		d:negara		"Sweden" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/19305-1533289536.jpg?lm=1" .
+
+p:P29	d:namaPlayer	"Oleksandr Rybka" ;
+		d:klub			"FK Obolon Kyiv" ;
+		d:Posisi		"Goalkeeper" ;
+		d:marketValue	"100000" ;
+		d:tinggi		"193" ;
+		d:negara		"Ukraine" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/19619-1629048429.png?lm=1" .
+
+p:P30	d:namaPlayer	"José Sosa" ;
+		d:klub			"Fenerbahçe Spor Kulübü" ;
+		d:Posisi		"Midfield" ;
+		d:marketValue	"200000" ;
+		d:tinggi		"179" ;
+		d:negara		"Argentina" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/20137-1603567042.jpeg?lm=1" .
+
+p:P31	d:namaPlayer	"Corentin Jean" ;
+		d:klub			"Racing Club de Lens" ;
+		d:Posisi		"Attack" ;
+		d:marketValue	"1000000" ;
+		d:tinggi		"170" ;
+		d:negara		"France" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/20463-1678565701.jpg?lm=1" .
+
+p:P32	d:namaPlayer	"Andy Considine" ;
+		d:klub			"Saint Johnstone Football Club" ;
+		d:Posisi		"Defender" ;
+		d:marketValue	"50000" ;
+		d:tinggi		"183" ;
+		d:negara		"Scotland" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/21306-1612224625.jpg?lm=1" .
+
+p:P33	d:namaPlayer	"Ron-Robert Zieler" ;
+		d:klub			"1. Fußball-Club Köln" ;
+		d:Posisi		"Goalkeeper" ;
+		d:marketValue	"700000" ;
+		d:tinggi		"188" ;
+		d:negara		"Germany" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/21327-1661423297.jpg?lm=1" .
+
+p:P34	d:namaPlayer	"Antonio Mirante" ;
+		d:klub			"Associazione Calcio Milan" ;
+		d:Posisi		"Goalkeeper" ;
+		d:marketValue	"100000" ;
+		d:tinggi		"193" ;
+		d:negara		"Italy" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/22141-1663574908.jpg?lm=1" .
+
+p:P35	d:namaPlayer	"Federico Marchetti" ;
+		d:klub			"Spezia Calcio" ;
+		d:Posisi		"Goalkeeper" ;
+		d:marketValue	"50000" ;
+		d:tinggi		"188" ;
+		d:negara		"Italy" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/22318-1688474874.jpg?lm=1" .
+
+p:P36	d:namaPlayer	"Benoît Costil" ;
+		d:klub			"U.S. Salernitana 1919 S.r.l." ;
+		d:Posisi		"Goalkeeper" ;
+		d:marketValue	"800000" ;
+		d:tinggi		"188" ;
+		d:negara		"France" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/22628-1676903501.jpg?lm=1" .
+
+p:P37	d:namaPlayer	"Jesper Hansen" ;
+		d:klub			"Aarhus Gymnastik Forening" ;
+		d:Posisi		"Goalkeeper" ;
+		d:marketValue	"150000" ;
+		d:tinggi		"188" ;
+		d:negara		"Denmark" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/22860-1601543044.jpg?lm=1" .
+
+p:P38	d:namaPlayer	"Lennart Thy" ;
+		d:klub			"Sparta Rotterdam" ;
+		d:Posisi		"Attack" ;
+		d:marketValue	"600000" ;
+		d:tinggi		"184" ;
+		d:negara		"Germany" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/23553-1677921540.jpg?lm=1" .
+
+p:P39	d:namaPlayer	"Ricardo Batista" ;
+		d:klub			"Casa Pia Atlético Clube" ;
+		d:Posisi		"Goalkeeper" ;
+		d:marketValue	"100000" ;
+		d:tinggi		"192" ;
+		d:negara		"Portugal" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/24846-1663602421.png?lm=1" .
+
+p:P40	d:namaPlayer	"Remko Pasveer" ;
+		d:klub			"AFC Ajax Amsterdam" ;
+		d:Posisi		"Goalkeeper" ;
+		d:marketValue	"150000" ;
+		d:tinggi		"187" ;
+		d:negara		"Netherlands" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/25520-1666951851.jpg?lm=1" .
+
+p:P41	d:namaPlayer	"Denys Kulakov" ;
+		d:klub			"FK Ural Yekaterinburg" ;
+		d:Posisi		"Defender" ;
+		d:marketValue	"100000" ;
+		d:tinggi		"185" ;
+		d:negara		"Ukraine" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/25734-1599997287.png?lm=1" .
+
+p:P42	d:namaPlayer	"Cristian Sapunaru" ;
+		d:klub			"Kayserispor Kulübü" ;
+		d:Posisi		"Defender" ;
+		d:marketValue	"300000" ;
+		d:tinggi		"187" ;
+		d:negara		"Romania" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/25942-1616165635.png?lm=1" .
+
+p:P43	d:namaPlayer	"Jérôme Boateng" ;
+		d:klub			"U.S. Salernitana 1919 S.r.l." ;
+		d:Posisi		"Defender" ;
+		d:marketValue	"500000" ;
+		d:tinggi		"192" ;
+		d:negara		"Germany" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/26485-1672831548.jpg?lm=1" .
+
+p:P44	d:namaPlayer	"Kévin Gameiro" ;
+		d:klub			"Racing Club de Strasbourg Alsace" ;
+		d:Posisi		"Attack" ;
+		d:marketValue	"700000" ;
+		d:tinggi		"172" ;
+		d:negara		"France" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/27389-1676905538.jpg?lm=1" .
+
+p:P45	d:namaPlayer	"Jean-Louis Leca" ;
+		d:klub			"Racing Club de Lens" ;
+		d:Posisi		"Goalkeeper" ;
+		d:marketValue	"200000" ;
+		d:tinggi		"180" ;
+		d:negara		"France" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/27490-1676911599.jpg?lm=1" .
+
+p:P46	d:namaPlayer	"Iván Cuéllar" ;
+		d:klub			"Real Club Deportivo Mallorca S.A.D." ;
+		d:Posisi		"Goalkeeper" ;
+		d:marketValue	"100000" ;
+		d:tinggi		"187" ;
+		d:negara		"Spain" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/27493-1664289273.jpg?lm=1" .
+
+p:P47	d:namaPlayer	"Stefanos Siontis" ;
+		d:klub			"Panipirotikos Athlitikos Syllogos Giannina" ;
+		d:Posisi		"Midfield" ;
+		d:marketValue	"75000" ;
+		d:tinggi		"180" ;
+		d:negara		"Greece" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/default.jpg?lm=1" .
+
+p:P48	d:namaPlayer	"Mikhail Kerzhakov" ;
+		d:klub			"AO FK Zenit Sankt-Peterburg" ;
+		d:Posisi		"Goalkeeper" ;
+		d:marketValue	"500000" ;
+		d:tinggi		"190" ;
+		d:negara		"Russia" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/27706-1602270688.png?lm=1" .
+
+p:P49	d:namaPlayer	"Daniele Padelli" ;
+		d:klub			"Udinese Calcio" ;
+		d:Posisi		"Goalkeeper" ;
+		d:marketValue	"200000" ;
+		d:tinggi		"191" ;
+		d:negara		"Italy" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/27807-1630653305.jpg?lm=1" .
+
+p:P50	d:namaPlayer	"Jay Emmanuel-Thomas" ;
+		d:klub			"Aberdeen Football Club" ;
+		d:Posisi		"Midfield" ;
+		d:marketValue	"250000" ;
+		d:tinggi		"191" ;
+		d:negara		"England" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/s_27969_698_2013_09_23_1.jpg?lm=1" .
+
+p:P51	d:namaPlayer	"Luka Modric" ;
+		d:klub			"Real Madrid Club de Fútbol" ;
+		d:Posisi		"Midfield" ;
+		d:marketValue	"8000000" ;
+		d:tinggi		"172" ;
+		d:negara		"Croatia" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/27992-1687776160.jpg?lm=1" .
+
+p:P52	d:namaPlayer	"Edin Dzeko" ;
+		d:klub			"Fenerbahçe Spor Kulübü" ;
+		d:Posisi		"Attack" ;
+		d:marketValue	"2700000" ;
+		d:tinggi		"193" ;
+		d:negara		"Bosnia-Herzegovina" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/28396-1696447661.png?lm=1" .
+
+p:P53	d:namaPlayer	"Colin Doyle" ;
+		d:klub			"Kilmarnock Football Club" ;
+		d:Posisi		"Goalkeeper" ;
+		d:marketValue	"50000" ;
+		d:tinggi		"196" ;
+		d:negara		"Ireland" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/28728-1515177902.jpg?lm=1" .
+
+p:P54	d:namaPlayer	"Thiago Silva" ;
+		d:klub			"Chelsea Football Club" ;
+		d:Posisi		"Defender" ;
+		d:marketValue	"1000000" ;
+		d:tinggi		"181" ;
+		d:negara		"Brazil" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/29241-1661856081.jpg?lm=1" .
+
+p:P55	d:namaPlayer	"Giorgio Chiellini" ;
+		d:klub			"Juventus Football Club" ;
+		d:Posisi		"Defender" ;
+		d:marketValue	"1000000" ;
+		d:tinggi		"187" ;
+		d:negara		"Italy" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/29260-1678025858.jpg?lm=1" .
+
+p:P56	d:namaPlayer	"Elmar Bjarnason" ;
+		d:klub			"PAS Lamia 1964" ;
+		d:Posisi		"Midfield" ;
+		d:marketValue	"50000" ;
+		d:tinggi		"183" ;
+		d:negara		"Iceland" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/29390-1506107789.jpg?lm=1" .
+
+p:P57	d:namaPlayer	"Michael McGovern" ;
+		d:klub			"Heart of Midlothian Football Club" ;
+		d:Posisi		"Goalkeeper" ;
+		d:marketValue	"50000" ;
+		d:tinggi		"190" ;
+		d:negara		"Northern Ireland" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/29391-1464948438.jpg?lm=1" .
+
+p:P58	d:namaPlayer	"Kjartan Finnbogason" ;
+		d:klub			"AC Horsens" ;
+		d:Posisi		"Attack" ;
+		d:marketValue	"125000" ;
+		d:tinggi		"188" ;
+		d:negara		"Iceland" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/29392-1532198774.jpg?lm=1" .
+
+p:P59	d:namaPlayer	"Guillermo Ochoa" ;
+		d:klub			"U.S. Salernitana 1919 S.r.l." ;
+		d:Posisi		"Goalkeeper" ;
+		d:marketValue	"1500000" ;
+		d:tinggi		"185" ;
+		d:negara		"Mexico" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/29559-1668452843.jpg?lm=1" .
+
+p:P60	d:namaPlayer	"Lukasz Fabianski" ;
+		d:klub			"West Ham United Football Club" ;
+		d:Posisi		"Goalkeeper" ;
+		d:marketValue	"700000" ;
+		d:tinggi		"190" ;
+		d:negara		"Poland" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/29692-1685709486.jpg?lm=1" .
+
+p:P61	d:namaPlayer	"John Ruddy" ;
+		d:klub			"Wolverhampton Wanderers Football Club" ;
+		d:Posisi		"Goalkeeper" ;
+		d:marketValue	"300000" ;
+		d:tinggi		"192" ;
+		d:negara		"England" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/s_29712_1123_2013_03_06_1.jpg?lm=1" .
+
+p:P62	d:namaPlayer	"Kenneth Vermeer" ;
+		d:klub			"Prins Hendrik Ende Desespereert Nimmer Combinatie Zwolle" ;
+		d:Posisi		"Goalkeeper" ;
+		d:marketValue	"50000" ;
+		d:tinggi		"182" ;
+		d:negara		"Netherlands" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/30290-1646524856.png?lm=1" .
+
+p:P63	d:namaPlayer	"Óscar Trejo" ;
+		d:klub			"Rayo Vallecano de Madrid S.A.D." ;
+		d:Posisi		"Midfield" ;
+		d:marketValue	"1500000" ;
+		d:tinggi		"180" ;
+		d:negara		"Argentina" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/30321-1653039805.jpg?lm=1" .
+
+p:P64	d:namaPlayer	"Sergio Romero" ;
+		d:klub			"Venezia FC" ;
+		d:Posisi		"Goalkeeper" ;
+		d:marketValue	"400000" ;
+		d:tinggi		"192" ;
+		d:negara		"Argentina" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/30690-1596803710.jpg?lm=1" .
+
+p:P65	d:namaPlayer	"Ismail Aissati" ;
+		d:klub			"Denizlispor" ;
+		d:Posisi		"Midfield" ;
+		d:marketValue	"25000" ;
+		d:tinggi		"174" ;
+		d:negara		"Morocco" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/30710-1572966910.JPG?lm=1" .
+
+p:P66	d:namaPlayer	"Jonathan de Guzmán" ;
+		d:klub			"Sparta Rotterdam" ;
+		d:Posisi		"Midfield" ;
+		d:marketValue	"250000" ;
+		d:tinggi		"173" ;
+		d:negara		"Netherlands" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/31067-1674213215.jpg?lm=1" .
+
+p:P67	d:namaPlayer	"Timothy Derijck" ;
+		d:klub			"SV Zulte Waregem" ;
+		d:Posisi		"Defender" ;
+		d:marketValue	"150000" ;
+		d:tinggi		"185" ;
+		d:negara		"Belgium" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/31131-1532350414.jpg?lm=1" .
+
+p:P68	d:namaPlayer	"Silvestre Varela" ;
+		d:klub			"B SAD" ;
+		d:Posisi		"Attack" ;
+		d:marketValue	"25000" ;
+		d:tinggi		"180" ;
+		d:negara		"Portugal" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/31316-1445515173.jpg?lm=1" .
+
+p:P69	d:namaPlayer	"Nick Proschwitz" ;
+		d:klub			"TSG 1899 Hoffenheim Fußball-Spielbetriebs GmbH" ;
+		d:Posisi		"Attack" ;
+		d:marketValue	"125000" ;
+		d:tinggi		"192" ;
+		d:negara		"Germany" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/31535-1660549442.jpg?lm=1" .
+
+p:P70	d:namaPlayer	"Tobias Sippel" ;
+		d:klub			"Borussia Verein für Leibesübungen 1900 Mönchengladbach" ;
+		d:Posisi		"Goalkeeper" ;
+		d:marketValue	"300000" ;
+		d:tinggi		"183" ;
+		d:negara		"Germany" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/31653-1662965792.jpg?lm=1" .
+
+p:P71	d:namaPlayer	"Toni Kroos" ;
+		d:klub			"Real Madrid Club de Fútbol" ;
+		d:Posisi		"Midfield" ;
+		d:marketValue	"12000000" ;
+		d:tinggi		"183" ;
+		d:negara		"Germany" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/31909-1700638741.jpg?lm=1" .
+
+p:P72	d:namaPlayer	"Ivan Rakitic" ;
+		d:klub			"Sevilla Fútbol Club S.A.D." ;
+		d:Posisi		"Midfield" ;
+		d:marketValue	"4000000" ;
+		d:tinggi		"184" ;
+		d:negara		"Croatia" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/32467-1688726103.jpg?lm=1" .
+
+p:P73	d:namaPlayer	"Patrick Herrmann" ;
+		d:klub			"Borussia Verein für Leibesübungen 1900 Mönchengladbach" ;
+		d:Posisi		"Attack" ;
+		d:marketValue	"1000000" ;
+		d:tinggi		"179" ;
+		d:negara		"Germany" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/32711-1662966551.jpg?lm=1" .
+
+p:P74	d:namaPlayer	"Przemyslaw Tyton" ;
+		d:klub			"Football Club Twente" ;
+		d:Posisi		"Goalkeeper" ;
+		d:marketValue	"100000" ;
+		d:tinggi		"195" ;
+		d:negara		"Poland" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/33210-1694855350.jpg?lm=1" .
+
+p:P75	d:namaPlayer	"Luca Cigarini" ;
+		d:klub			"FC Crotone" ;
+		d:Posisi		"Midfield" ;
+		d:marketValue	"300000" ;
+		d:tinggi		"175" ;
+		d:negara		"Italy" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/33218-1449134033.jpg?lm=1" .
+
+p:P76	d:namaPlayer	"Davino Verhulst" ;
+		d:klub			"Royal Antwerp Football Club" ;
+		d:Posisi		"Goalkeeper" ;
+		d:marketValue	"50000" ;
+		d:tinggi		"193" ;
+		d:negara		"Belgium" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/33480-1671477727.jpg?lm=1" .
+
+p:P77	d:namaPlayer	"Marco Soares" ;
+		d:klub			"Futebol Clube de Arouca" ;
+		d:Posisi		"Midfield" ;
+		d:marketValue	"50000" ;
+		d:tinggi		"180" ;
+		d:negara		"Cape Verde" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/33549-1534408132.png?lm=1" .
+
+p:P78	d:namaPlayer	"Lorenzo De Silvestri" ;
+		d:klub			"Bologna Football Club 1909" ;
+		d:Posisi		"Defender" ;
+		d:marketValue	"400000" ;
+		d:tinggi		"187" ;
+		d:negara		"Italy" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/33571-1595929290.jpg?lm=1" .
+
+p:P79	d:namaPlayer	"Kevin Mirallas" ;
+		d:klub			"Moreirense Futebol Clube" ;
+		d:Posisi		"Midfield" ;
+		d:marketValue	"350000" ;
+		d:tinggi		"182" ;
+		d:negara		"Belgium" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/33639-1605139873.jpeg?lm=1" .
+
+p:P80	d:namaPlayer	"Onur Kaya" ;
+		d:klub			"Yellow-Red Koninklijke Voetbalclub Mechelen" ;
+		d:Posisi		"Midfield" ;
+		d:marketValue	"150000" ;
+		d:tinggi		"167" ;
+		d:negara		"Belgium" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/33709-1616957159.jpg?lm=1" .
+
+p:P81	d:namaPlayer	"Alex Smithies" ;
+		d:klub			"Leicester City" ;
+		d:Posisi		"Goalkeeper" ;
+		d:marketValue	"500000" ;
+		d:tinggi		"189" ;
+		d:negara		"England" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/33754-1467882120.jpg?lm=1" .
+
+p:P82	d:namaPlayer	"Gökhan Gönül" ;
+		d:klub			"Çaykur Rizespor Kulübü" ;
+		d:Posisi		"Defender" ;
+		d:marketValue	"50000" ;
+		d:tinggi		"175" ;
+		d:negara		"Turkey" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/33793-1663954627.png?lm=1" .
+
+p:P83	d:namaPlayer	"Sinan Bolat" ;
+		d:klub			"Koninklijke Voetbal Club Westerlo" ;
+		d:Posisi		"Goalkeeper" ;
+		d:marketValue	"700000" ;
+		d:tinggi		"186" ;
+		d:negara		"Türkiye" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/33862-1713448592.png?lm=1" .
+
+p:P84	d:namaPlayer	"Papiss Cissé" ;
+		d:klub			"Çaykur Rizespor Kulübü" ;
+		d:Posisi		"Attack" ;
+		d:marketValue	"200000" ;
+		d:tinggi		"180" ;
+		d:negara		"Senegal" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/33952-1603566371.jpeg?lm=1" .
+
+p:P85	d:namaPlayer	"Tom Heaton" ;
+		d:klub			"Manchester United Football Club" ;
+		d:Posisi		"Goalkeeper" ;
+		d:marketValue	"250000" ;
+		d:tinggi		"188" ;
+		d:negara		"England" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/34130-1688121718.jpg?lm=1" .
+
+p:P86	d:namaPlayer	"Themistoklis Tzimopoulos" ;
+		d:klub			"APO Levadiakos" ;
+		d:Posisi		"Defender" ;
+		d:marketValue	"75000" ;
+		d:tinggi		"187" ;
+		d:negara		"New Zealand" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/34204-1493711296.jpg?lm=1" .
+
+p:P87	d:namaPlayer	"Lazaros Christodoulopoulos" ;
+		d:klub			"Aris Thessalonikis" ;
+		d:Posisi		"Midfield" ;
+		d:marketValue	"150000" ;
+		d:tinggi		"183" ;
+		d:negara		"Greece" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/34283-1448965371.jpg?lm=1" .
+
+p:P88	d:namaPlayer	"Sokratis Papastathopoulos" ;
+		d:klub			"Real Betis Balompié S.A.D." ;
+		d:Posisi		"Defender" ;
+		d:marketValue	"800000" ;
+		d:tinggi		"186" ;
+		d:negara		"Greece" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/34322-1698855131.jpg?lm=1" .
+
+p:P89	d:namaPlayer	"Raúl García" ;
+		d:klub			"Athletic Club Bilbao" ;
+		d:Posisi		"Attack" ;
+		d:marketValue	"2000000" ;
+		d:tinggi		"184" ;
+		d:negara		"Spain" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/34601-1709676479.png?lm=1" .
+
+p:P90	d:namaPlayer	"Lasse Schöne" ;
+		d:klub			"Nijmegen Eendracht Combinatie" ;
+		d:Posisi		"Midfield" ;
+		d:marketValue	"175000" ;
+		d:tinggi		"178" ;
+		d:negara		"Denmark" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/34784-1704798405.jpg?lm=1" .
+
+p:P91	d:namaPlayer	"Axel Witsel" ;
+		d:klub			"Club Atlético de Madrid S.A.D." ;
+		d:Posisi		"Defender" ;
+		d:marketValue	"4000000" ;
+		d:tinggi		"186" ;
+		d:negara		"Belgium" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/35047-1665067807.jpg?lm=1" .
+
+p:P92	d:namaPlayer	"Marco Reus" ;
+		d:klub			"Borussia Dortmund" ;
+		d:Posisi		"Midfield" ;
+		d:marketValue	"5000000" ;
+		d:tinggi		"180" ;
+		d:negara		"Germany" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/35207-1716381576.jpg?lm=1" .
+
+p:P93	d:namaPlayer	"Stefano Okaka" ;
+		d:klub			"İstanbul Başakşehir Futbol Kulübü" ;
+		d:Posisi		"Attack" ;
+		d:marketValue	"1000000" ;
+		d:tinggi		"186" ;
+		d:negara		"Italy" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/35249-1667046666.png?lm=1" .
+
+p:P94	d:namaPlayer	"David Silva" ;
+		d:klub			"Real Sociedad de Fútbol S.A.D." ;
+		d:Posisi		"Midfield" ;
+		d:marketValue	"4000000" ;
+		d:tinggi		"170" ;
+		d:negara		"Spain" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/35518-1683269363.jpg?lm=1" .
+
+p:P95	d:namaPlayer	"Murat Yildirim" ;
+		d:klub			"Genclerbirligi Ankara" ;
+		d:Posisi		"Midfield" ;
+		d:marketValue	"75000" ;
+		d:tinggi		"170" ;
+		d:negara		"Turkey" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/35530-1566986665.jpg?lm=1" .
+
+p:P96	d:namaPlayer	"Víctor Vázquez" ;
+		d:klub			"Königliche Allgemeine Sportvereinigung Eupen" ;
+		d:Posisi		"Midfield" ;
+		d:marketValue	"150000" ;
+		d:tinggi		"180" ;
+		d:negara		"Spain" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/35813-1678203627.jpg?lm=1" .
+
+p:P97	d:namaPlayer	"Max Kruse" ;
+		d:klub			"Verein für Leibesübungen Wolfsburg" ;
+		d:Posisi		"Attack" ;
+		d:marketValue	"500000" ;
+		d:tinggi		"180" ;
+		d:negara		"Germany" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/36182-1688648961.jpg?lm=1" .
+
+p:P98	d:namaPlayer	"Olcay Sahan" ;
+		d:klub			"Yeni Malatyaspor" ;
+		d:Posisi		"Attack" ;
+		d:marketValue	"100000" ;
+		d:tinggi		"179" ;
+		d:negara		"Turkey" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/36200-1534676709.png?lm=1" .
+
+p:P99	d:namaPlayer	"Simon Terodde" ;
+		d:klub			"FC Schalke 04" ;
+		d:Posisi		"Attack" ;
+		d:marketValue	"900000" ;
+		d:tinggi		"192" ;
+		d:negara		"Germany" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/36284-1629901204.jpg?lm=1" .
+
+p:P100	d:namaPlayer	"Mikhail Sivakov" ;
+		d:klub			"FC Orenburg" ;
+		d:Posisi		"Defender" ;
+		d:marketValue	"200000" ;
+		d:tinggi		"187" ;
+		d:negara		"Belarus" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/36364-1690113211.png?lm=1" .
+
+p:P101	d:namaPlayer	"Nikola Kalinic" ;
+		d:klub			"Verona Hellas Football Club" ;
+		d:Posisi		"Attack" ;
+		d:marketValue	"300000" ;
+		d:tinggi		"187" ;
+		d:negara		"Croatia" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/36371-1662878081.jpg?lm=1" .
+
+p:P102	d:namaPlayer	"Ceyhun Gülselam" ;
+		d:klub			"Altay SK" ;
+		d:Posisi		"Midfield" ;
+		d:marketValue	"50000" ;
+		d:tinggi		"192" ;
+		d:negara		"Turkey" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/37216-1660653717.png?lm=1" .
+
+p:P103	d:namaPlayer	"Shane Long" ;
+		d:klub			"Southampton FC" ;
+		d:Posisi		"Attack" ;
+		d:marketValue	"250000" ;
+		d:tinggi		"180" ;
+		d:negara		"Ireland" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/37304-1464869790.jpg?lm=1" .
+
+p:P104	d:namaPlayer	"José Crespo" ;
+		d:klub			"Panthessalonikios Athlitikos Omilos Konstantinoupoliton" ;
+		d:Posisi		"Defender" ;
+		d:marketValue	"300000" ;
+		d:tinggi		"185" ;
+		d:negara		"Spain" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/37397-1613846851.jpg?lm=1" .
+
+p:P105	d:namaPlayer	"Anton Shunin" ;
+		d:klub			"FK Dinamo Moskva" ;
+		d:Posisi		"Goalkeeper" ;
+		d:marketValue	"500000" ;
+		d:tinggi		"193" ;
+		d:negara		"Russia" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/37549-1605115296.png?lm=1" .
+
+p:P106	d:namaPlayer	"Dimitri Payet" ;
+		d:klub			"Olympique de Marseille" ;
+		d:Posisi		"Midfield" ;
+		d:marketValue	"1800000" ;
+		d:tinggi		"175" ;
+		d:negara		"France" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/37647-1617979644.jpg?lm=1" .
+
+p:P107	d:namaPlayer	"Arturo Vidal" ;
+		d:klub			"Football Club Internazionale Milano S.p.A." ;
+		d:Posisi		"Midfield" ;
+		d:marketValue	"700000" ;
+		d:tinggi		"180" ;
+		d:negara		"Chile" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/37666-1502276644.jpg?lm=1" .
+
+p:P108	d:namaPlayer	"Felipe Caicedo" ;
+		d:klub			"Genoa Cricket and Football Club" ;
+		d:Posisi		"Attack" ;
+		d:marketValue	"400000" ;
+		d:tinggi		"183" ;
+		d:negara		"Ecuador" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/37834-1594277045.jpg?lm=1" .
+
+p:P109	d:namaPlayer	"Dejan Lovren" ;
+		d:klub			"Olympique Lyonnais" ;
+		d:Posisi		"Defender" ;
+		d:marketValue	"1200000" ;
+		d:tinggi		"188" ;
+		d:negara		"Croatia" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/37838-1702991299.jpg?lm=1" .
+
+p:P110	d:namaPlayer	"Lee Peltier" ;
+		d:klub			"West Bromwich Albion" ;
+		d:Posisi		"Defender" ;
+		d:marketValue	"200000" ;
+		d:tinggi		"178" ;
+		d:negara		"England" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/38094-1547736271.jpg?lm=1" .
+
+p:P111	d:namaPlayer	"Robert Lewandowski" ;
+		d:klub			"Futbol Club Barcelona" ;
+		d:Posisi		"Attack" ;
+		d:marketValue	"15000000" ;
+		d:tinggi		"185" ;
+		d:negara		"Poland" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/38253-1701118759.jpg?lm=1" .
+
+p:P112	d:namaPlayer	"Thorsten Kirschbaum" ;
+		d:klub			"VVV-Venlo" ;
+		d:Posisi		"Goalkeeper" ;
+		d:marketValue	"200000" ;
+		d:tinggi		"195" ;
+		d:negara		"Germany" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/38346-1657099459.jpg?lm=1" .
+
+p:P113	d:namaPlayer	"Jeremain Lens" ;
+		d:klub			"Beşiktaş Jimnastik Kulübü" ;
+		d:Posisi		"Attack" ;
+		d:marketValue	"100000" ;
+		d:tinggi		"178" ;
+		d:negara		"Netherlands" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/38497-1669399774.jpg?lm=1" .
+
+p:P114	d:namaPlayer	"Tomas Pekhart" ;
+		d:klub			"Gaziantep Futbol Kulübü A.Ş." ;
+		d:Posisi		"Attack" ;
+		d:marketValue	"400000" ;
+		d:tinggi		"194" ;
+		d:negara		"Czech Republic" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/38746-1677704738.png?lm=1" .
+
+p:P115	d:namaPlayer	"Vítor Gomes" ;
+		d:klub			"Rio Ave Futebol Clube" ;
+		d:Posisi		"Midfield" ;
+		d:marketValue	"100000" ;
+		d:tinggi		"182" ;
+		d:negara		"Portugal" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/38780-1676547235.jpg?lm=1" .
+
+p:P116	d:namaPlayer	"Kirill Nababkin" ;
+		d:klub			"PFK CSKA Moskva" ;
+		d:Posisi		"Defender" ;
+		d:marketValue	"100000" ;
+		d:tinggi		"184" ;
+		d:negara		"Russia" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/38805-1629034841.png?lm=1" .
+
+p:P117	d:namaPlayer	"Ralf Fährmann" ;
+		d:klub			"FC Schalke 04" ;
+		d:Posisi		"Goalkeeper" ;
+		d:marketValue	"400000" ;
+		d:tinggi		"197" ;
+		d:negara		"Germany" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/39015-1657108425.jpg?lm=1" .
+
+p:P118	d:namaPlayer	"Danny Latza" ;
+		d:klub			"FC Schalke 04" ;
+		d:Posisi		"Midfield" ;
+		d:marketValue	"500000" ;
+		d:tinggi		"179" ;
+		d:negara		"Germany" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/39025-1637159258.jpg?lm=1" .
+
+p:P119	d:namaPlayer	"Borna Barisic" ;
+		d:klub			"Rangers Football Club" ;
+		d:Posisi		"Defender" ;
+		d:marketValue	"3500000" ;
+		d:tinggi		"186" ;
+		d:negara		"Croatia" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/39125-1667991076.jpg?lm=1" .
+
+p:P120	d:namaPlayer	"Radamel Falcao" ;
+		d:klub			"Rayo Vallecano de Madrid S.A.D." ;
+		d:Posisi		"Attack" ;
+		d:marketValue	"900000" ;
+		d:tinggi		"177" ;
+		d:negara		"Colombia" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/39152-1708071754.jpg?lm=1" .
+
+p:P121	d:namaPlayer	"Anton Shynder" ;
+		d:klub			"FK Minaj" ;
+		d:Posisi		"Attack" ;
+		d:marketValue	"100000" ;
+		d:tinggi		"188" ;
+		d:negara		"Ukraine" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/39253-1602096824.png?lm=1" .
+
+p:P122	d:namaPlayer	"Makoto Hasebe" ;
+		d:klub			"Eintracht Frankfurt Fußball AG" ;
+		d:Posisi		"Defender" ;
+		d:marketValue	"500000" ;
+		d:tinggi		"180" ;
+		d:negara		"Japan" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/39259-1663065131.jpg?lm=1" .
+
+p:P123	d:namaPlayer	"Roman Miroshnyk" ;
+		d:klub			"NK Veres Rivne" ;
+		d:Posisi		"Defender" ;
+		d:marketValue	"300000" ;
+		d:tinggi		"182" ;
+		d:negara		"Ukraine" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/39637-1616755084.png?lm=1" .
+
+p:P124	d:namaPlayer	"Mats Hummels" ;
+		d:klub			"Borussia Dortmund" ;
+		d:Posisi		"Defender" ;
+		d:marketValue	"5000000" ;
+		d:tinggi		"191" ;
+		d:negara		"Germany" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/39728-1709560545.jpg?lm=1" .
+
+p:P125	d:namaPlayer	"Hélder Barbosa" ;
+		d:klub			"Panetolikos Agrinio" ;
+		d:Posisi		"Attack" ;
+		d:marketValue	"200000" ;
+		d:tinggi		"172" ;
+		d:negara		"Portugal" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/39784-1679906957.jpg?lm=1" .
+
+p:P126	d:namaPlayer	"Jacob Butterfield" ;
+		d:klub			"Saint Johnstone Football Club" ;
+		d:Posisi		"Midfield" ;
+		d:marketValue	"375000" ;
+		d:tinggi		"180" ;
+		d:negara		"England" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/s_39827_1123_2013_05_07_1.jpg?lm=1" .
+
+p:P127	d:namaPlayer	"Pape Diop" ;
+		d:klub			"SD Eibar" ;
+		d:Posisi		"Midfield" ;
+		d:marketValue	"200000" ;
+		d:tinggi		"180" ;
+		d:negara		"Senegal" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/39907-1447228545.jpg?lm=1" .
+
+p:P128	d:namaPlayer	"Leonardo Bonucci" ;
+		d:klub			"Fenerbahçe Spor Kulübü" ;
+		d:Posisi		"Defender" ;
+		d:marketValue	"1000000" ;
+		d:tinggi		"189" ;
+		d:negara		"Italy" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/39983-1693590039.jpg?lm=1" .
+
+p:P129	d:namaPlayer	"Alaixys Romao" ;
+		d:klub			"Ionikos Nikeas" ;
+		d:Posisi		"Midfield" ;
+		d:marketValue	"75000" ;
+		d:tinggi		"180" ;
+		d:negara		"Togo" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/40014-1595964426.jpg?lm=1" .
+
+p:P130	d:namaPlayer	"Jens Grahl" ;
+		d:klub			"Eintracht Frankfurt Fußball AG" ;
+		d:Posisi		"Goalkeeper" ;
+		d:marketValue	"200000" ;
+		d:tinggi		"192" ;
+		d:negara		"Germany" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/40034-1663064684.jpg?lm=1" .
+
+p:P131	d:namaPlayer	"Stefan Ilsanker" ;
+		d:klub			"Eintracht Frankfurt Fußball AG" ;
+		d:Posisi		"Midfield" ;
+		d:marketValue	"300000" ;
+		d:tinggi		"189" ;
+		d:negara		"Austria" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/40074-1532352062.jpg?lm=1" .
+
+p:P132	d:namaPlayer	"Joe Hart" ;
+		d:klub			"The Celtic Football Club" ;
+		d:Posisi		"Goalkeeper" ;
+		d:marketValue	"500000" ;
+		d:tinggi		"196" ;
+		d:negara		"England" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/40204-1701211977.jpg?lm=1" .
+
+p:P133	d:namaPlayer	"Borja Valero" ;
+		d:klub			"Associazione Calcio Fiorentina" ;
+		d:Posisi		"Midfield" ;
+		d:marketValue	"900000" ;
+		d:tinggi		"175" ;
+		d:negara		"Spain" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/40372-1448527157.jpg?lm=1" .
+
+p:P134	d:namaPlayer	"Alexis Sánchez" ;
+		d:klub			"Football Club Internazionale Milano S.p.A." ;
+		d:Posisi		"Attack" ;
+		d:marketValue	"2500000" ;
+		d:tinggi		"169" ;
+		d:negara		"Chile" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/40433-1660118147.jpg?lm=1" .
+
+p:P135	d:namaPlayer	"Roman Neustädter" ;
+		d:klub			"Koninklijke Voetbal Club Westerlo" ;
+		d:Posisi		"Defender" ;
+		d:marketValue	"200000" ;
+		d:tinggi		"188" ;
+		d:negara		"Russia" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/40478-1713449864.png?lm=1" .
+
+p:P136	d:namaPlayer	"Jack Cork" ;
+		d:klub			"Burnley Football Club" ;
+		d:Posisi		"Midfield" ;
+		d:marketValue	"800000" ;
+		d:tinggi		"185" ;
+		d:negara		"England" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/40613-1700672826.jpg?lm=1" .
+
+p:P137	d:namaPlayer	"Milan Badelj" ;
+		d:klub			"Genoa Cricket and Football Club" ;
+		d:Posisi		"Midfield" ;
+		d:marketValue	"800000" ;
+		d:tinggi		"186" ;
+		d:negara		"Croatia" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/40633-1692277462.jpg?lm=1" .
+
+p:P138	d:namaPlayer	"Manuel Riemann" ;
+		d:klub			"Verein für Leibesübungen Bochum 1848 – Fußballgemeinschaft" ;
+		d:Posisi		"Goalkeeper" ;
+		d:marketValue	"600000" ;
+		d:tinggi		"186" ;
+		d:negara		"Germany" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/40792-1691250480.jpg?lm=1" .
+
+p:P139	d:namaPlayer	"Trevor Carson" ;
+		d:klub			"Dundee Football Club" ;
+		d:Posisi		"Goalkeeper" ;
+		d:marketValue	"150000" ;
+		d:tinggi		"185" ;
+		d:negara		"Northern Ireland" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/41131-1517405180.jpg?lm=1" .
+
+p:P140	d:namaPlayer	"Andreas Luthe" ;
+		d:klub			"Verein für Leibesübungen Bochum 1848 – Fußballgemeinschaft" ;
+		d:Posisi		"Goalkeeper" ;
+		d:marketValue	"300000" ;
+		d:tinggi		"195" ;
+		d:negara		"Germany" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/41323-1692861087.jpg?lm=1" .
+
+p:P141	d:namaPlayer	"Ricky van Wolfswinkel" ;
+		d:klub			"Football Club Twente" ;
+		d:Posisi		"Attack" ;
+		d:marketValue	"550000" ;
+		d:tinggi		"186" ;
+		d:negara		"Netherlands" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/41355-1686056671.jpg?lm=1" .
+
+p:P142	d:namaPlayer	"Danny Blum" ;
+		d:klub			"Verein für Leibesübungen Bochum 1848 – Fußballgemeinschaft" ;
+		d:Posisi		"Attack" ;
+		d:marketValue	"250000" ;
+		d:tinggi		"184" ;
+		d:negara		"Germany" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/41541-1533114575.jpg?lm=1" .
+
+p:P143	d:namaPlayer	"Steve De Ridder" ;
+		d:klub			"Koninklijke Sint-Truidense Voetbalvereniging" ;
+		d:Posisi		"Midfield" ;
+		d:marketValue	"100000" ;
+		d:tinggi		"178" ;
+		d:negara		"Belgium" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/41818-1487771458.jpg?lm=1" .
+
+p:P144	d:namaPlayer	"Simone Aresti" ;
+		d:klub			"Cagliari Calcio" ;
+		d:Posisi		"Goalkeeper" ;
+		d:marketValue	"75000" ;
+		d:tinggi		"187" ;
+		d:negara		"Italy" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/41912-1598859995.jpg?lm=1" .
+
+p:P145	d:namaPlayer	"Philipp Bargfrede" ;
+		d:klub			"Sportverein Werder Bremen von 1899" ;
+		d:Posisi		"Midfield" ;
+		d:marketValue	"150000" ;
+		d:tinggi		"174" ;
+		d:negara		"Germany" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/42033-1660831477.jpg?lm=1" .
+
+p:P146	d:namaPlayer	"Tobias Kempe" ;
+		d:klub			"Sportverein Darmstadt 1898 e. V." ;
+		d:Posisi		"Midfield" ;
+		d:marketValue	"500000" ;
+		d:tinggi		"184" ;
+		d:negara		"Germany" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/42072-1689058527.jpg?lm=1" .
+
+p:P147	d:namaPlayer	"Toby Alderweireld" ;
+		d:klub			"Royal Antwerp Football Club" ;
+		d:Posisi		"Defender" ;
+		d:marketValue	"3000000" ;
+		d:tinggi		"187" ;
+		d:negara		"Belgium" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/42710-1664349412.jpg?lm=1" .
+
+p:P148	d:namaPlayer	"Jo Coppens" ;
+		d:klub			"Koninklijke Sint-Truidense Voetbalvereniging" ;
+		d:Posisi		"Goalkeeper" ;
+		d:marketValue	"200000" ;
+		d:tinggi		"190" ;
+		d:negara		"Belgium" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/42717-1713345662.png?lm=1" .
+
+p:P149	d:namaPlayer	"Sven Kums" ;
+		d:klub			"Koninklijke Atletiek Associatie Gent" ;
+		d:Posisi		"Midfield" ;
+		d:marketValue	"500000" ;
+		d:tinggi		"176" ;
+		d:negara		"Belgium" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/42735-1704960098.jpg?lm=1" .
+
+p:P150	d:namaPlayer	"Jelle Vossen" ;
+		d:klub			"SV Zulte Waregem" ;
+		d:Posisi		"Attack" ;
+		d:marketValue	"400000" ;
+		d:tinggi		"183" ;
+		d:negara		"Belgium" ;
+		d:photos		"https://img.a.transfermarkt.technology/portrait/header/42748-1626769746.jpg?lm=1" .
+
